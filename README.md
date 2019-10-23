@@ -37,9 +37,13 @@ Tú eliges cuál es la que más te acomoda entre estos tres niveles:
 Java 8 instalado y configurado
 
 ## Nivel 1: 
+
     Crear un programa que recibe, a través de la entrada estándar, un archivo en formato Json con la estructura de la respuesta de servicio (como el ejemplo de arriba) y que entrega a través de la salida estándar, como respuesta, un archivo Json con las fechas faltantes.
+    
+    
 Ejemplo:
     Se entrega un archivo con este contenido:
+    
     
 ```json
 {
